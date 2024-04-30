@@ -8,7 +8,7 @@ M.plugins = {
 }
 
 M.ui = {
-	theme = "yoru",
+	theme = "solarized_osaka",
 
 	-- hl_override = {
 	-- 	Comment = { italic = true },
