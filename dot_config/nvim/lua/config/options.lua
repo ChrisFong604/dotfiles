@@ -4,6 +4,6 @@
 
 local o = vim.o
 o.winbar = "%=%m %f"
-o.textwidth = 80
+o.textwidth = 60
 o.wrap = true
 o.linebreak = true
