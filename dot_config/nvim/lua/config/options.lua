@@ -7,3 +7,5 @@ o.winbar = "%=%m %f"
 o.textwidth = 60
 o.wrap = true
 o.linebreak = true
+
+vim.g.lazyvim_picker = "telescope"
