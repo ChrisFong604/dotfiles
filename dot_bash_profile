@@ -1,0 +1,4 @@
+# If .bashrc exists and is readable, source it
+if [ -f ~/.bashrc ]; then
+  . ~/.bashrc
+fi
