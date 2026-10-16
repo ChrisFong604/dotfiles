@@ -9,3 +9,5 @@ o.wrap = true
 o.linebreak = true
 
 vim.g.lazyvim_picker = "telescope"
+-- Biome projects have no Prettier config, so Prettier stays out and Biome formats on save.
+vim.g.lazyvim_prettier_needs_config = true
